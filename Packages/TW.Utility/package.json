@@ -5,9 +5,9 @@
   "description": "My Unity Custom Package",
   "unity": "2019.1",
   "author": {
-    "name": "thinhwar123",
-    "email": "thinhwar123@gmail.com",
-    "url": "https://github.com/thinhwar123"
+    "name": "AnKoCare",
+    "email": "trinhquocan0888816858@gmail.com",
+    "url": "https://github.com/AnKoCare"
   },
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1"
